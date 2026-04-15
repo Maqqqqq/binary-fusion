@@ -2,6 +2,9 @@
 
 Fuse two Linux ELF executables into one executable that runs both in sequence.
 
+## Author
+- Markus Stamm
+
 ## Requirements
 
 - Linux
