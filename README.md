@@ -5,6 +5,10 @@ Fuse two Linux ELF executables into one executable that runs both in sequence.
 ## Author
 - Markus Stamm
 
+## Educational Use Only
+
+This project is for education and systems-programming research only. Use it only with binaries you own or have permission to analyze.
+
 ## Requirements
 
 - Linux
